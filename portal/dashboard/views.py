@@ -288,5 +288,48 @@ def wiki(request):
     return render(request, 'dashboard/wiki.html', context)
 
 
+def register(request):
+    if request.method == "POST":
+        form = UserRegistrationForm(request.POST)
+        if form.is_valid():
+            form.save()
+            username = form.cleaned_data.get('username')
+            messages.success(request, f"Account created for {username}!")
+            return redirect('login')
+    else:
+        form = UserRegistrationForm()
+
+    context = {'form': form}
+    return render(request, 'dashboard/register.html', context)
 
 
+def profile(request):
+    homeworks = Homework.objects.filter(is_finished=False, user=request.user)
+    todos = Todo.objects.filter(is_finished=False, user=request.user)
+    
+    homework_done = False  # Default value
+    todos_done = False  # Default value
+    
+    if len(homeworks) == 0:
+        homework_done = True
+    else:
+        todos_done = True
+        
+    context =  {
+        'homeworks': homeworks,
+        'todos' : todos,
+        'homework_done': homework_done,
+        'todos_done': todos_done   
+    }
+    
+    return render(request, 'dashboard/profile.html', context)
+
+
+
+def logout(request):
+    return render(request, 'dashboard/logout.html')
+
+
+
+
+    
