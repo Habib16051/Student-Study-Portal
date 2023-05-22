@@ -10,13 +10,12 @@ Let's discuss all the topics step by step:
 
 # Technology We used for this project:
 
-I. HTML5
-II. CSS3
-III. Bootstrap
-IV. Django (One of the python frame work for Backend Development)
-IV. Javascripts (fundamental of js)
-
-IDE: VS Code
+1. HTML5
+2. CSS3
+3. Bootstrap
+4. Django (One of the python frame work for Backend Development)
+5. Javascripts (fundamental of js)
+6. IDE: VS Code
 
 # Initial dashboard before Signup:
 
