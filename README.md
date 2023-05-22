@@ -88,6 +88,10 @@ In VS Code: go to cd env/Scripts and press enter your terminal and after that wr
 7. Finally Run the Projects :-
   For Windows:- py manage.py runserver
   For Linux/Mac:- python3 manage.py runserver
+  
+  
+  If you have anyquery, You can easily reach out to me:
+  Email: innovatexsolutionsbd@gmail.com
 
 
 
