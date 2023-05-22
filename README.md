@@ -69,22 +69,24 @@ After Searching:
 
 Now It's time to discuss how can you make  website like this and how can you contribute this work:
 
-Clone this Project: git clone https://github.com/Habib16051/Student-Study-Portal.git
-Go to Project Directory cd Student-Study-Portal
-Create a Virtual Environment :-
+1. Clone this Project: git clone https://github.com/Habib16051/Student-Study-Portal.git
+2. Go to Project Directory cd Student-Study-Portal
+3. Create a Virtual Environment :-
 for Windows python -m venv env 
-for Linux/Mac python3 -m venv env 
-Activate Virtual Environment source env/bin/activate 
-Install Requirment Packages pip install -r requirments.txt
-Migrate Database :-
-For Windows py manage.py migrate
-For Linux/Mac python3 manage.py migrate
-Create SuperUser :-
-For Windows py manage.py createsuperuser
-For Linux/Mac python3 manage.py createsuperuser
-Finally Run the Projects :-
-For Windows py manage.py runserver
-For Linux/Mac python3 manage.py runserver
+for Linux/Mac python3 -m venv env
+
+3. Activate Virtual Environment source env/bin/activate
+ 
+4. Install Requirment Packages pip install -r requirments.txt
+5. Migrate Database :-
+  For Windows py manage.py migrate
+  For Linux/Mac python3 manage.py migrate
+6. Create SuperUser :-
+  For Windows py manage.py createsuperuser
+  For Linux/Mac python3 manage.py createsuperuser
+7. Finally Run the Projects :-
+  For Windows py manage.py runserver
+  For Linux/Mac python3 manage.py runserver
 
 
 
