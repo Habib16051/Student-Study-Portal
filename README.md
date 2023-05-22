@@ -8,7 +8,7 @@ I am dedicating this project for all the students out there who wants to make a 
 
 Let's discuss all the topics step by step:
 
-Technology We used for this project:
+# Technology We used for this project:
 
 I. HTML5
 II. CSS3
