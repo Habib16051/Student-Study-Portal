@@ -77,7 +77,7 @@ for Linux/Mac python3 -m venv env
 
 3. Activate Virtual Environment source env/bin/activate
  
-4. Install Requirment Packages pip install -r requirments.txt
+4. Install Requirment Packages :- pip install -r requirments.txt
 5. Migrate Database :-
   For Windows py manage.py migrate
   For Linux/Mac python3 manage.py migrate
