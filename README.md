@@ -41,7 +41,31 @@ After Searching:
 
 
 
-4.  
+4.  There is also a ToDo Opition is available in our website! If you have any upcoming tasks to list and make a plan for it. Then you can easily use  To-Do List section.
+![image](https://github.com/Habib16051/Student-Study-Portal/assets/39822204/4e858e73-4bf2-4f75-9bf0-52c469e227c2)
+
+
+
+
+
+5.  Suppose you want read books and don't know where to go to find this books! Good News! We have also this opportunity for you! We used google books api to interact with our users so that anyone can easily find their books and start reading without wasting any time! Cheers!
+Before Searching:
+![image](https://github.com/Habib16051/Student-Study-Portal/assets/39822204/927fd5a4-6f89-4cf1-b440-5a40f19f4f69)
+
+After Searching:
+![image](https://github.com/Habib16051/Student-Study-Portal/assets/39822204/1796b2da-49a2-46e2-ad5e-abdd7885bbae)
+
+
+
+6.  It's Dictionary Time!! As a student we all know that, when we do study, sometimes we get stuck in vocabulary! So we have this solutions for you too! You can easily search your vocabulary using this option and also can hear the pronounciation.
+![image](https://github.com/Habib16051/Student-Study-Portal/assets/39822204/50f53538-280a-40bd-98d8-9203321c8bbe)
+
+
+
+7.  And Our final task is Wikipedia!! when a students know about any recent and new topics everyone is looking for wikipedia to find the easiest meaning and definition of that specific topics! So why you are waiting for!!
+
+![image](https://github.com/Habib16051/Student-Study-Portal/assets/39822204/e3d6c992-424f-48ee-ab6b-f3f92a70a812)
+
 
 
 
