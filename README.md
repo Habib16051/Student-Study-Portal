@@ -1,7 +1,7 @@
 # Student Study Portal Website
 
 # Subscribe Our Youtube Channel for upcoming video tutorial,  related to this project :-
-Youtube: https://www.youtube.com/@InnovateX2023
+Youtube: https://www.youtube.com/@InnovateX2023/videos
 
 Welcome Everyone!
 
