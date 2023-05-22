@@ -8,6 +8,16 @@ I am dedicating this project for all the students out there who wants to make a 
 
 Let's discuss all the topics step by step:
 
+Technology We used for this project:
+
+I. HTML5
+II. CSS3
+III. Bootstrap
+IV. Django (One of the python frame work for Backend Development)
+IV. Javascripts (fundamental of js)
+
+IDE: VS Code
+
 # Initial dashboard before Signup:
 
 ![image](https://github.com/Habib16051/Student-Study-Portal/assets/39822204/68e190d4-dc7b-4556-b171-2387207dc53e)
