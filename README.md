@@ -8,12 +8,13 @@ I am dedicating this project for all the students out there who wants to make a 
 
 Let's discuss all the topics step by step:
 
-1. Initial dashboard before Signup:
+# Initial dashboard before Signup:
 
 ![image](https://github.com/Habib16051/Student-Study-Portal/assets/39822204/68e190d4-dc7b-4556-b171-2387207dc53e)
 
-
-2. Dashboard After Login!!
+# Dashboard After Login!!
 
 ![image](https://github.com/Habib16051/Student-Study-Portal/assets/39822204/a4bc49d8-6b60-4cee-8aad-7c046d3442da)
+
+
 
