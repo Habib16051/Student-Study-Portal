@@ -67,6 +67,26 @@ After Searching:
 ![image](https://github.com/Habib16051/Student-Study-Portal/assets/39822204/e3d6c992-424f-48ee-ab6b-f3f92a70a812)
 
 
+Now It's time to discuss how can you make  website like this and how can you contribute this work:
+
+Clone this Project: git clone https://github.com/Habib16051/Student-Study-Portal.git
+Go to Project Directory cd Student-Study-Portal
+Create a Virtual Environment :-
+for Windows python -m venv env 
+for Linux/Mac python3 -m venv env 
+Activate Virtual Environment source env/bin/activate 
+Install Requirment Packages pip install -r requirments.txt
+Migrate Database :-
+For Windows py manage.py migrate
+For Linux/Mac python3 manage.py migrate
+Create SuperUser :-
+For Windows py manage.py createsuperuser
+For Linux/Mac python3 manage.py createsuperuser
+Finally Run the Projects :-
+For Windows py manage.py runserver
+For Linux/Mac python3 manage.py runserver
+
+
 
 
 
