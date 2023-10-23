@@ -20,6 +20,7 @@ Let's discuss all the topics step by step:
 4. Django (One of the python frame work for Backend Development)
 5. Javascripts (fundamental of js)
 6. IDE: VS Code
+7. Third-Party APIs like Google Books API, YouTube API, Wikipedia APIs, Dictionary APIs etc.
 
 # Initial dashboard before Signup:
 
